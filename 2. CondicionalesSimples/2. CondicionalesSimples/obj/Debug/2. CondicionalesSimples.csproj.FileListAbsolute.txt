@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\2. CondicionalesSimples\2. CondicionalesSimples\bin\Debug\_2.CondicionalesSimples.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\2. CondicionalesSimples\2. CondicionalesSimples\bin\Debug\_2.CondicionalesSimples.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\2. CondicionalesSimples\2. CondicionalesSimples\bin\Debug\_2.CondicionalesSimples.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\2. CondicionalesSimples\2. CondicionalesSimples\obj\Debug\2. CondicionalesSimples.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\2. CondicionalesSimples\2. CondicionalesSimples\obj\Debug\2. CondicionalesSimples.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\2. CondicionalesSimples\2. CondicionalesSimples\obj\Debug\_2.CondicionalesSimples.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\2. CondicionalesSimples\2. CondicionalesSimples\obj\Debug\_2.CondicionalesSimples.pdb
