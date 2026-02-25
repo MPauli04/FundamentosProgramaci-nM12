@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\5. Condicionales aninadados\5. Condicionales aninadados\obj\Debug\5. Condicionales aninadados.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\5. Condicionales aninadados\5. Condicionales aninadados\obj\Debug\5. Condicionales aninadados.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\5. Condicionales aninadados\5. Condicionales aninadados\bin\Debug\_5.Condicionales_aninadados.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\5. Condicionales aninadados\5. Condicionales aninadados\bin\Debug\_5.Condicionales_aninadados.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\5. Condicionales aninadados\5. Condicionales aninadados\bin\Debug\_5.Condicionales_aninadados.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\5. Condicionales aninadados\5. Condicionales aninadados\obj\Debug\_5.Condicionales_aninadados.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\5. Condicionales aninadados\5. Condicionales aninadados\obj\Debug\_5.Condicionales_aninadados.pdb
