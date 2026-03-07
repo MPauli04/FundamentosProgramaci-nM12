@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\ParcialCondicionales\ParcialCondicionales\bin\Debug\ParcialCondicionales.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\ParcialCondicionales\ParcialCondicionales\bin\Debug\ParcialCondicionales.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\ParcialCondicionales\ParcialCondicionales\bin\Debug\ParcialCondicionales.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\ParcialCondicionales\ParcialCondicionales\obj\Debug\ParcialCondicionales.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\ParcialCondicionales\ParcialCondicionales\obj\Debug\ParcialCondicionales.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\ParcialCondicionales\ParcialCondicionales\obj\Debug\ParcialCondicionales.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\ParcialCondicionales\ParcialCondicionales\obj\Debug\ParcialCondicionales.pdb
