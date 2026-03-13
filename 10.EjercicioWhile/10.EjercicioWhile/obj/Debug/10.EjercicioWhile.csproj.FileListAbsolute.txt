@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\10.EjercicioWhile\10.EjercicioWhile\bin\Debug\10.EjercicioWhile.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\10.EjercicioWhile\10.EjercicioWhile\bin\Debug\10.EjercicioWhile.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\10.EjercicioWhile\10.EjercicioWhile\bin\Debug\10.EjercicioWhile.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\10.EjercicioWhile\10.EjercicioWhile\obj\Debug\10.EjercicioWhile.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\10.EjercicioWhile\10.EjercicioWhile\obj\Debug\10.EjercicioWhile.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\10.EjercicioWhile\10.EjercicioWhile\obj\Debug\10.EjercicioWhile.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\10.EjercicioWhile\10.EjercicioWhile\obj\Debug\10.EjercicioWhile.pdb
