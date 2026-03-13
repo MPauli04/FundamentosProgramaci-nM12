@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\9. CicloWhile\9. CicloWhile\bin\Debug\_9.CicloWhile.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\9. CicloWhile\9. CicloWhile\bin\Debug\_9.CicloWhile.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\9. CicloWhile\9. CicloWhile\bin\Debug\_9.CicloWhile.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\9. CicloWhile\9. CicloWhile\obj\Debug\9. CicloWhile.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\9. CicloWhile\9. CicloWhile\obj\Debug\9. CicloWhile.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\9. CicloWhile\9. CicloWhile\obj\Debug\_9.CicloWhile.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\9. CicloWhile\9. CicloWhile\obj\Debug\_9.CicloWhile.pdb
