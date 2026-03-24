@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\8.TallerCondicionales\8.TallerCondicionales\bin\Debug\8.TallerCondicionales.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\8.TallerCondicionales\8.TallerCondicionales\bin\Debug\8.TallerCondicionales.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\8.TallerCondicionales\8.TallerCondicionales\bin\Debug\8.TallerCondicionales.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\8.TallerCondicionales.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\8.TallerCondicionales.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\8.TallerCondicionales.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\8.TallerCondicionales.pdb
