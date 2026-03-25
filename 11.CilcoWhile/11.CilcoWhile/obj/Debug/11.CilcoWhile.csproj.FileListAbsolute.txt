@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\11.CilcoWhile\11.CilcoWhile\bin\Debug\11.CilcoWhile.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\11.CilcoWhile\11.CilcoWhile\bin\Debug\11.CilcoWhile.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\11.CilcoWhile\11.CilcoWhile\bin\Debug\11.CilcoWhile.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\11.CilcoWhile\11.CilcoWhile\obj\Debug\11.CilcoWhile.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\11.CilcoWhile\11.CilcoWhile\obj\Debug\11.CilcoWhile.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\11.CilcoWhile\11.CilcoWhile\obj\Debug\11.CilcoWhile.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\11.CilcoWhile\11.CilcoWhile\obj\Debug\11.CilcoWhile.pdb
