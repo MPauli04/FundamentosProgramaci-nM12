@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\14.CilcosDoWhile\14.CilcosDoWhile\bin\Debug\14.CilcosDoWhile.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\14.CilcosDoWhile\14.CilcosDoWhile\bin\Debug\14.CilcosDoWhile.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\14.CilcosDoWhile\14.CilcosDoWhile\bin\Debug\14.CilcosDoWhile.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\14.CilcosDoWhile\14.CilcosDoWhile\obj\Debug\14.CilcosDoWhile.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\14.CilcosDoWhile\14.CilcosDoWhile\obj\Debug\14.CilcosDoWhile.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\14.CilcosDoWhile\14.CilcosDoWhile\obj\Debug\14.CilcosDoWhile.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\14.CilcosDoWhile\14.CilcosDoWhile\obj\Debug\14.CilcosDoWhile.pdb
