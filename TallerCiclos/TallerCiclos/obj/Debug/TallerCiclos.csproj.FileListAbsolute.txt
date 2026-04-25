@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerCiclos\TallerCiclos\bin\Debug\TallerCiclos.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerCiclos\TallerCiclos\bin\Debug\TallerCiclos.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerCiclos\TallerCiclos\bin\Debug\TallerCiclos.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.pdb
