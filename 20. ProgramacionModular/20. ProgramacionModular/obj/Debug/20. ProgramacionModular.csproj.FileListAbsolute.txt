@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\20. ProgramacionModular\20. ProgramacionModular\bin\Debug\_20.ProgramacionModular.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\20. ProgramacionModular\20. ProgramacionModular\bin\Debug\_20.ProgramacionModular.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\20. ProgramacionModular\20. ProgramacionModular\bin\Debug\_20.ProgramacionModular.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\20. ProgramacionModular\20. ProgramacionModular\obj\Debug\20. ProgramacionModular.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\20. ProgramacionModular\20. ProgramacionModular\obj\Debug\20. ProgramacionModular.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\20. ProgramacionModular\20. ProgramacionModular\obj\Debug\_20.ProgramacionModular.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\20. ProgramacionModular\20. ProgramacionModular\obj\Debug\_20.ProgramacionModular.pdb
