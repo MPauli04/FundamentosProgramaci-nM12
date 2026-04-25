@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerVectores\TallerVectores\bin\Debug\TallerVectores.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerVectores\TallerVectores\bin\Debug\TallerVectores.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerVectores\TallerVectores\bin\Debug\TallerVectores.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerVectores\TallerVectores\obj\Debug\TallerVectores.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerVectores\TallerVectores\obj\Debug\TallerVectores.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerVectores\TallerVectores\obj\Debug\TallerVectores.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerVectores\TallerVectores\obj\Debug\TallerVectores.pdb
