@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\21. Modular1\21. Modular1\bin\Debug\_21.Modular1.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\21. Modular1\21. Modular1\bin\Debug\_21.Modular1.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\21. Modular1\21. Modular1\bin\Debug\_21.Modular1.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\21. Modular1\21. Modular1\obj\Debug\21. Modular1.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\21. Modular1\21. Modular1\obj\Debug\21. Modular1.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\21. Modular1\21. Modular1\obj\Debug\_21.Modular1.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\21. Modular1\21. Modular1\obj\Debug\_21.Modular1.pdb
