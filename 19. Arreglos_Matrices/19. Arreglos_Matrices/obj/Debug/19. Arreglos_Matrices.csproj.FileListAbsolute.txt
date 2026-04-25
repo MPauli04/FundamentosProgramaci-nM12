@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\19. Arreglos_Matrices\19. Arreglos_Matrices\bin\Debug\_19.Arreglos_Matrices.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\19. Arreglos_Matrices\19. Arreglos_Matrices\bin\Debug\_19.Arreglos_Matrices.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\19. Arreglos_Matrices\19. Arreglos_Matrices\bin\Debug\_19.Arreglos_Matrices.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\19. Arreglos_Matrices\19. Arreglos_Matrices\obj\Debug\19. Arreglos_Matrices.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\19. Arreglos_Matrices\19. Arreglos_Matrices\obj\Debug\19. Arreglos_Matrices.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\19. Arreglos_Matrices\19. Arreglos_Matrices\obj\Debug\_19.Arreglos_Matrices.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\19. Arreglos_Matrices\19. Arreglos_Matrices\obj\Debug\_19.Arreglos_Matrices.pdb
