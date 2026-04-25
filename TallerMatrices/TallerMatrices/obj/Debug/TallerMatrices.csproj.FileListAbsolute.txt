@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerMatrices\TallerMatrices\bin\Debug\TallerMatrices.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerMatrices\TallerMatrices\bin\Debug\TallerMatrices.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerMatrices\TallerMatrices\bin\Debug\TallerMatrices.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.pdb
