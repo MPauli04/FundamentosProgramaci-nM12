@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\Parcial 2 Ciclos\Parcial 2 Ciclos\bin\Debug\Parcial 2 Ciclos.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\Parcial 2 Ciclos\Parcial 2 Ciclos\bin\Debug\Parcial 2 Ciclos.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\Parcial 2 Ciclos\Parcial 2 Ciclos\bin\Debug\Parcial 2 Ciclos.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\Parcial 2 Ciclos\Parcial 2 Ciclos\obj\Debug\Parcial 2 Ciclos.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\Parcial 2 Ciclos\Parcial 2 Ciclos\obj\Debug\Parcial 2 Ciclos.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\Parcial 2 Ciclos\Parcial 2 Ciclos\obj\Debug\Parcial 2 Ciclos.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\Parcial 2 Ciclos\Parcial 2 Ciclos\obj\Debug\Parcial 2 Ciclos.pdb
