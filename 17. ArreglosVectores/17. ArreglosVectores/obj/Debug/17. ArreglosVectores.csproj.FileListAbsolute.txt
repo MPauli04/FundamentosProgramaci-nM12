@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\17. ArreglosVectores\17. ArreglosVectores\bin\Debug\_17.ArreglosVectores.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\17. ArreglosVectores\17. ArreglosVectores\bin\Debug\_17.ArreglosVectores.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\17. ArreglosVectores\17. ArreglosVectores\bin\Debug\_17.ArreglosVectores.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\17. ArreglosVectores\17. ArreglosVectores\obj\Debug\17. ArreglosVectores.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\17. ArreglosVectores\17. ArreglosVectores\obj\Debug\17. ArreglosVectores.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\17. ArreglosVectores\17. ArreglosVectores\obj\Debug\_17.ArreglosVectores.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\17. ArreglosVectores\17. ArreglosVectores\obj\Debug\_17.ArreglosVectores.pdb
