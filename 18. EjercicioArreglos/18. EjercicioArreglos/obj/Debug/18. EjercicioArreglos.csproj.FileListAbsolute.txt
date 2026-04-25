@@ -1,0 +1,7 @@
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\18. EjercicioArreglos\18. EjercicioArreglos\bin\Debug\_18.EjercicioArreglos.exe.config
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\18. EjercicioArreglos\18. EjercicioArreglos\bin\Debug\_18.EjercicioArreglos.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\18. EjercicioArreglos\18. EjercicioArreglos\bin\Debug\_18.EjercicioArreglos.pdb
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\18. EjercicioArreglos\18. EjercicioArreglos\obj\Debug\18. EjercicioArreglos.csproj.AssemblyReference.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\18. EjercicioArreglos\18. EjercicioArreglos\obj\Debug\18. EjercicioArreglos.csproj.CoreCompileInputs.cache
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\18. EjercicioArreglos\18. EjercicioArreglos\obj\Debug\_18.EjercicioArreglos.exe
+C:\Maria Paulina FP\FundamentosProgramaci-nM12\18. EjercicioArreglos\18. EjercicioArreglos\obj\Debug\_18.EjercicioArreglos.pdb
